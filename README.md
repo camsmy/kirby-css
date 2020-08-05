@@ -1,3 +1,3 @@
 # kirby-css
 
-an css art activity amde using vanilla css
+an css art activity made using vanilla css
